@@ -1,0 +1,16 @@
+@font-face {
+  font-family: DigitalTime;
+  src: url(./font/digital-7.ttf);
+}
+@font-face {
+  font-family: title;
+  src: url(./font/Pennstat.ttf);
+}
+
+@font-face {
+  font-family: heading;
+  src: url(./font/Heading-Pro-Wide-ExtraBold-trial.ttf);
+}
+.okk{
+  background-color: aqua;
+}

@@ -1,0 +1,26 @@
+.currentTime {
+    display: flex;
+    min-height: 89vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    background-color: rgba(11, 11, 10, 0.751);
+}
+
+.currentTime1 h1 {
+    font-family: title;
+    font-size: 7rem;
+    margin-top: -3cm;
+    color: rgba(8, 4, 4, 0.895);
+    text-shadow: 2px 2px 5px rgb(26, 26, 243), -2px -2px 5px rgb(26, 26, 243);
+
+}
+
+.currentTime1 div {
+    font-family: DigitalTime;
+    font-size: 7rem;
+    color: aliceblue;
+    text-shadow: 2px 2px 10px rgb(26, 26, 243), -2px -2px 10px rgb(26, 26, 243);
+    letter-spacing: 5px;
+}

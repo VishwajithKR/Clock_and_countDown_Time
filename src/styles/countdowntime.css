@@ -1,0 +1,20 @@
+.cdt1 {
+    display: flex;
+    /* gap: 100px; */justify-content: space-between;
+    font-family: DigitalTime;
+    font-size: 7rem; gap: 5rem;text-align: left;
+}
+
+.cdt2 {
+    display: flex;
+
+    font-family: DigitalTime;
+    font-size: 3rem;
+}
+
+.countdown div {
+
+    color: aliceblue;
+    text-shadow: 2px 2px 10px rgb(26, 26, 243), -2px -2px 10px rgb(26, 26, 243);
+    letter-spacing: 5px;
+}
